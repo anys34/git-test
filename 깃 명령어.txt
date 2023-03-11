@@ -3,4 +3,5 @@
 % git add .
 % git commit -m "메세지"
 % git push origin master
-% git remote
+% git remote add ""
+% git remote remove origin
