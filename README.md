@@ -27,3 +27,23 @@
 ### git remote add origin "원격 저장소"
 
 - origin이라는 이름으로 원격 저장소를 연결
+
+### git log
+
+- 지금까지 만든 커밋 확인
+
+### git log --all
+
+- 보이지 않는 모든 커밋 확인
+
+### git log -p
+
+- 이전 커밋과의 차이점 확인
+
+### git checkout [commit ID] or [-]
+
+- 해당(-는 최신) 커밋으로 이동
+
+### git checkout main
+
+- main 브렌치로 이동
