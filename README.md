@@ -47,3 +47,7 @@
 ### git checkout main
 
 - main 브렌치로 이동
+
+### git status
+
+- 파일의 상태를 분류하는 것
