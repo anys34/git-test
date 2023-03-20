@@ -51,3 +51,7 @@
 ### git status
 
 - 파일의 상태를 분류하는 것
+
+### git push -u origin main
+
+- -u를 하면 다음부터 git push만 해도 된다
