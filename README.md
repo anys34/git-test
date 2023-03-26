@@ -55,3 +55,7 @@
 ### git push -u origin main
 
 - -u를 하면 다음부터 git push만 해도 된다
+
+### git commit -am "메세지"
+
+- add와 commit을 동시에 하기
