@@ -71,3 +71,31 @@
 ### git pull "(상대의)원격 저장소"
 
 - git clone을 하고난 후 상대가 push한 내용을 불러온다
+
+### git commit --amend
+
+- 마지막 commit 메시지 변경
+
+### git diff
+
+- 스테이지에 올리기 전 변경사항을 알려줌
+
+### git diff (branch1) (branch2(기준))
+
+- branch1 과 branch2 차이 비교
+
+### git log -p
+
+- 커밋을 하고난 후 변경사항을 알려줌
+
+### git reset --hard (commit ID)
+
+- 해당 commit 으로 reset
+
+### git reset --hard ORIG_HEAD
+
+- reset 취소
+
+### git reflog
+
+- 진행된 커밋 기록 확인
